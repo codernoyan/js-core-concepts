@@ -1,3 +1,4 @@
+// factorial with while loop in reverse way
 function factorialReverse(number) {
     let i = number;
     let result = 1;
